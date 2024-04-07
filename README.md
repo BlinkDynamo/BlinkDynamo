@@ -1,4 +1,4 @@
-## Hi, I’m @BlinkDynamo
+## Hi, I’m Josh (@BlinkDynamo)
 #### I'm 22 years old and in school for computer programming and analysis. This is what i'm up to on currently:
 
 - I'm learning Python, C#, C++, SQL, and Javascript, both in school and outside of school.
